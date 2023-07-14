@@ -1,5 +1,7 @@
 # Read document with Self-consistency
 
+Demo: https://twitter.com/anatoliimelnyk/status/1679887686272786432
+
 API key is from OpenAI: https://platform.openai.com/
 
 To start:
